@@ -90,6 +90,7 @@
             this.btnINV.TabIndex = 4;
             this.btnINV.Text = "Inventory";
             this.btnINV.UseVisualStyleBackColor = true;
+            this.btnINV.Click += new System.EventHandler(this.btnINV_Click);
             // 
             // pnlContent
             // 

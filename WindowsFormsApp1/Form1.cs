@@ -39,5 +39,10 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void btnINV_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
